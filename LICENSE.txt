@@ -1,4 +1,4 @@
-Copyright (c) 2026 Lazaro Nixon
+Copyright (c) 2026 Lázaro Nixon Amaral de Almeida
 
 The query command and its tests are taken from Ruby on Rails
 (https://github.com/rails/rails), which is released under the MIT License:

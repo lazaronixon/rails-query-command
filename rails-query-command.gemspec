@@ -5,8 +5,8 @@ require_relative "lib/rails_query_command/version"
 Gem::Specification.new do |spec|
   spec.name = "rails-query-command"
   spec.version = RailsQueryCommand::VERSION
-  spec.authors = [ "Lazaro Nixon" ]
-  spec.email = [ "koombea.lazaro@homebot.ai" ]
+  spec.authors = [ "Lázaro Nixon Amaral de Almeida" ]
+  spec.email = [ "lazaronixon@hotmail.com" ]
 
   spec.summary = "Backport of `bin/rails query` (read-only JSON database queries) for Rails 7.2, 8.0 and 8.1."
   spec.description = <<~DESC
