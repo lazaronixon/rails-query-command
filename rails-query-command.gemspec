@@ -14,8 +14,10 @@ Gem::Specification.new do |spec|
     Rails 7.2, 8.0 and 8.1. Runs Active Record expressions or raw SQL against a read-only
     connection and prints structured JSON, with pagination and schema/model introspection.
   DESC
-  spec.homepage = "https://github.com/rails/rails/pull/57156"
+  spec.homepage = "https://github.com/lazaronixon/rails-query-command"
   spec.license = "MIT"
+  spec.metadata["source_code_uri"] = spec.homepage
+  spec.metadata["changelog_uri"] = "#{spec.homepage}/blob/main/CHANGELOG.md"
   spec.required_ruby_version = ">= 3.1"
 
   spec.files = Dir["lib/**/*", "README.md", "CHANGELOG.md", "LICENSE.txt"]
